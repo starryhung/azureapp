@@ -144,7 +144,7 @@ pyexcel-io==0.5.14
 pyexcel-xls==0.5.8
 pyexcel-xlsx==0.5.7
 pyflakes==2.0.0
-Pygments==2.2.0
+Pygments==2.7.4
 pylint==2.1.1
 pyodbc==4.0.24
 pyOpenSSL==18.0.0
